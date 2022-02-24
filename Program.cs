@@ -74,6 +74,7 @@ namespace Exercise13
                 {
                     Console.Clear();
                     Console.WriteLine("Congratulations");
+                    break;
                 }
                 else if (error == limit)
                 {
