@@ -79,6 +79,7 @@ namespace Exercise13
                 {
                     Console.WriteLine("Limit exceeded");
                     Console.WriteLine("Error: {0} of {1}, the word was {2}", error, limit,word);
+                    break;
                 }
             }
         }
